@@ -18,6 +18,7 @@ from typing import Dict
 from util.common import ScaleInOutput
 from torchvision.models.feature_extraction import create_feature_extractor
 
+
 class ChangeDetection(nn.Module):
     def __init__(self, opt):
         super().__init__()
