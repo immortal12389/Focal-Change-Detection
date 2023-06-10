@@ -1,6 +1,7 @@
 from losses.bce import *
 from losses.dice import *
 
+
 class BceDiceLoss(nn.Module):
     def __init__(self):
         super(BceDiceLoss, self).__init__()
