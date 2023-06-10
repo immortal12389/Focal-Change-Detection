@@ -2,7 +2,6 @@
 # FocalNet for Semantic Segmentation
 # Copyright (c) 2022 Microsoft
 # Licensed under The MIT License [see LICENSE for details]
-# Written by Jianwei Yang
 # --------------------------------------------------------
 import math
 import time
